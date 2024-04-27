@@ -8,5 +8,8 @@
     "dev": "node index.js"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
