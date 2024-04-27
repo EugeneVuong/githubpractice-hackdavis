@@ -1,3 +1,1 @@
 # githubpractice-hackdavis
-
-# Hello World
